@@ -7,12 +7,12 @@ Bu repoda sadece Fabricdose adlı siteme ait olan görseller ve bilgilendirme me
 
 | Kontrol Paneli (Dashboard) | Yapay Zeka İle Üretim (Generator) |
 |:---:|:---:|
-| ![Dashboard](dashboard.png) | ![Generator](public/screenshots/generator.png) |
+| ![Dashboard](dashboard.png) | ![Generator](generator.png) |
 | *Kullanıcı dostu arayüz ve hızlı erişim* | *Metinden doku ve desen üretimi* |
 
 | Stil Transferi (Style Transfer) | Katalog ve Analiz |
 |:---:|:---:|
-| ![Style Transfer](public/screenshots/transfer.png) | ![Catalog](public/screenshots/catalog.png) |
+| ![Style Transfer](transfer.png) | ![Catalog](catalog.png) |
 | *Görsel stillerini desenlere uygulama* | *Teknik analiz ve otomatik etiketleme* |
 
 ## 🚀 Öne Çıkan Özellikler
